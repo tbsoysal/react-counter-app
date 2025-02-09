@@ -26,6 +26,6 @@ cd react-counter-app
 npm install
 
 4. Start the app:
-npm start
+npm run dev
 
-This will run the app locally on http://localhost:3000.
+This will run the app locally on localhost
