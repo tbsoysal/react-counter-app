@@ -53,3 +53,7 @@ h1 {
   border: none;
   border-radius: 12px;
 }
+
+button {
+  cursor: pointer;
+}
