@@ -17,7 +17,7 @@ You can view the live demo of the app at: [[Demo Link]](https://tbsoysal.github.
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/react-counter-app.git
+git clone https://github.com/tbsoysal/react-counter-app.git
 
 2. Navigate to the project folder:
 cd react-counter-app
